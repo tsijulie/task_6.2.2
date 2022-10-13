@@ -1,2 +1,3 @@
 line for tag 1
 line for tag 2
+line for tag 3
